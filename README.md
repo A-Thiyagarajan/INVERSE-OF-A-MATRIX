@@ -19,6 +19,9 @@ Using the np.linalg.matrix_rank(), we can find the inverse of the given matrix
 End the program
 ## Program:
 ```
+#Program to find the inverse of a matrix.
+#Developed by:A.Thiyagrajan
+#RegisterNumber:212222240110
 import numpy as np
 A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 inverse=np.linalg.inv(A)
